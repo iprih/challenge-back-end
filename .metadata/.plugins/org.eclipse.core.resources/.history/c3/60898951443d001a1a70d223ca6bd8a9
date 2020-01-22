@@ -1,0 +1,3 @@
+server.port=8081
+
+spring.data.mongodb.uri = mongodb+srv://apirest:apirest@cluster0-tjvtu.mongodb.net/starwars?retryWrites=true&w=majority
